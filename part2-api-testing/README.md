@@ -1,3 +1,5 @@
+# Part 2
+
 ## Running the test suite
 
 1. Navigate to the project directory '/qa-analyst-assessment'
