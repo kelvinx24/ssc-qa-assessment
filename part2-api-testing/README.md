@@ -8,6 +8,6 @@
 
 ## Note
 
-- The assessment requested edge cases, but also specified only three test cases.
+- The assessment requested edge cases, but also specified only three test cases
 - To satisfy both requirements, the tests include three primary test cases of the requested API endpoints
 - Potential edge cases are included in the comments
