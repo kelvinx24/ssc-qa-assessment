@@ -1,0 +1,14 @@
+{
+  "name": "qa-analyst-assessment",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest ./part2-api-testing/api.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
