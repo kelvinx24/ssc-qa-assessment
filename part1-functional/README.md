@@ -1,0 +1,4 @@
+## Approach
+For my approach to removing duplicates in a list, I started with a set to track which elements have already been encountered. A set is ideal for this purpose as it can quickly check the membership of an element and each element can only appear once. However, it does not preserve the order by which elements are entered into the set. Therefore, I created a separate list to hold the solution. I processed each element in the input list one by one by using Python’s built-in filter function. For each element, I checked that it does not already exist in the set. If it does not already exist in the set, the element will be added to the solution list and the set to ensure on the next instance it will be recognized as a duplicate.
+
+While the filter function can be simplified with a lambda, I opted to write a helper function instead. This makes the code clearer and easier to understand.
